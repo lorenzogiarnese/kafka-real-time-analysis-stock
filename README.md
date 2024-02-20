@@ -11,3 +11,4 @@ End-To-End Data Engineering Project on Real-Time Stock Market using Kafka
 - Amazon Athena
 
 # Architecture
+![](kafka-stock-market.png)
