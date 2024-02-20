@@ -1,5 +1,5 @@
-## Real-time analysis on Stock Market using Kafka
-End-To-End Data Engineering Project on Real-Time Stock Market using Kafka
+## Real-time Data Analysis on Stock Market using Kafka
+End-To-End Data Engineering Project on Real-Time Stock Market data using Kafka
 
 # Technologies 
 - Python
